@@ -4,6 +4,7 @@ export default function HomePage() {
     <main style={{ paddingTop: '80px', textAlign: 'center' }}>
       <section id="about" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', padding: '20px' }}>
         <h1>Abdul Ahad</h1>
+        <h3>Roll no: 00111645</h3>
         <h2>Aspiring Data Scientist</h2>
         <p>Hi, I'm Abdul Ahad! I'm studying Computer Engineering and have a strong focus on Data Science and Machine Learning. 
           I'm skilled in SQL, Python, advanced Excel, Power BI and Machine Learning. 
